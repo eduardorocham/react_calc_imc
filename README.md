@@ -1,6 +1,6 @@
 # IMC Calculator
 
-This is an IMC calculator application made with ReactJs during the course of [b7web](https://www.b7web.com.br]
+This is an IMC calculator application made with ReactJs during the course of [b7web](https://www.b7web.com.br)
 
 ## Technology
 * ReactJs - A JavaScript library for building user interfaces
